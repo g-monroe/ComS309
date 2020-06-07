@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ISUView</string>
+    <string name="title_activity_maps">ISUView</string>
+    <string name="title_activity_building_view">BuildingView</string>
+    <string name="title_activity_bus_route_view">BusRouteView</string>
+    <string name="channel_name">NotificationChannel</string>
+    <string name="channel_description">NotificationChannelForBusView</string>
+</resources>
